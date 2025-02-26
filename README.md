@@ -1,2 +1,1 @@
-# ChatAppBack-End
- Clean Architecture .NetCore
+# ChatApp
